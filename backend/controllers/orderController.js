@@ -219,7 +219,6 @@ export {
   verifyStripe,
   placeOrder,
   placeOrderStripe,
-  placeOrderRazorpay,
   allOrders,
   userOrders,
   updateStatus,
